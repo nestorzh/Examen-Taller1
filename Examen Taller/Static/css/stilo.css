@@ -1,0 +1,15 @@
+.body{
+    background-color: rgb(247, 255, 173);
+}
+.mynavbar{
+    background-color: rgb(65, 166, 255);
+}
+.navbar-brand{
+    text-align: right;
+    color: white;
+    padding: auto;
+}
+.logo{
+    height: 100px;
+    width: 100px;
+}
